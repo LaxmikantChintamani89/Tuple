@@ -1,0 +1,43 @@
+C:\Users\hp\source\repos\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+C:\Users\hp\source\repos\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+C:\Users\hp\source\repos\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+C:\Users\hp\source\repos\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+C:\Users\hp\source\repos\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+C:\Users\hp\source\repos\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll
+D:\Git Code\TupleRepo\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+D:\Git Code\TupleRepo\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+D:\Git Code\TupleRepo\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+D:\Git Code\TupleRepo\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+D:\Git Code\TupleRepo\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+D:\Git Code\TupleRepo\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll
+D:\Git Code\TupleRepository\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+D:\Git Code\TupleRepository\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+D:\Git Code\TupleRepository\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+D:\Git Code\TupleRepository\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+D:\Git Code\TupleRepository\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+D:\Git Code\TupleRepository\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll
